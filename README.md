@@ -8,7 +8,7 @@ ANONYMOUS U7P4L
 
 </br>
 <p align="center">
-      ⚡Tracking Victims IP address and get Location ⚡
+      ⚡Cookis ⚡
 
 </p>
   
@@ -24,7 +24,7 @@ ANONYMOUS U7P4L
  pip install mechanize
  cd $HOME 
  rm -rf MBF
-git clone https://github.com/ANONYMOUS-U7P4L/MBF.git
+git clone --depth=1 https://github.com/ANONYMOUS-U7P4L/MBF.git
 
 cd MBF
 

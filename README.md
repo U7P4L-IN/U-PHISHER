@@ -41,7 +41,8 @@ This Tool Has Been Tested On The Following Systems:
 </p>
 
 # Workflow
-<img src="https://github.com/Samu23/README/blob/main/an.gif"/>
+<img src="https://github.com/U7P4L-IN/U-PHISHER/blob/main/Image/ezgif.com-video-to-gif.gif"/>
+
 
 # New Features 2023
 #### [+] Airbnb Phishing page !

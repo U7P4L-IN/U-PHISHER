@@ -65,7 +65,7 @@ Linux system (RECOMMENDED)
 # Installation in Linux
 **Open up your terminal and clone the repo**
 ```bash
-git clone https://github.com/TermuxHackz/U-PHISHER
+git clone https://github.com/U7P4L-IN/U-PHISHER
 cd U-PHISHER
 chmod 777 *
 bash U-PHISHER.sh

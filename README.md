@@ -8,8 +8,8 @@ Automated Phishing Tool Made By U7P4L 1N To Phish Various Sites With 51+ Templat
 U-phisher Tool Is Made With Pure Bash Script And Needs Required Packages For It To Work.
 </p>
 
-## 🚀U-DDOS: RELEASE V1.4
-## FREE DDOS PANEL.🚀
+## 🚀U-PHISHER: V 3.3.2
+## FREE PHISHING PANEL.🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/U7P4L-IN/U-PHISHER?color=%23DF0067&style=for-the-badge"/> &nbsp;

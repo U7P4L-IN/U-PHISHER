@@ -120,3 +120,5 @@ If You Do Not See The Account Info In The U-PHISHER Terminal, Simply Go Into The
 ```
 Version 3.3.2
 ```
+#### Tools Languages :
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=U-PHISHER&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)

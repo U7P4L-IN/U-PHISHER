@@ -114,7 +114,8 @@ To update the tool, run the <b>bash U-PHISHER.sh </b>and type number 20 from the
 
 <h4>After You Have Run The Bash Install.Sh Dont Run It Next Time Your Using It, It Will Be Deleted Only Run The bash U-PHISHER.sh ✨✨
 </h4>
-
+<p align="center"><img src="https://github.com/U7P4L-IN/U7P4L-IN/blob/main/Warning.gif">
+ 
 # Faqs
 #### [1] What if i dont see the account info in termux? !
 If You Do Not See The Account Info In The U-PHISHER Terminal, Simply Go Into The U-phisher Logs Directory And Use The Cat Command To Display The Log.

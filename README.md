@@ -126,3 +126,7 @@ Version 3.3.2
 ```
 #### Tools Languages :
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=U-PHISHER&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+# Give A Star ⭐
+
+You can also give this repository a star to show more people and they can use this repository
